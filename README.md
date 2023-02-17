@@ -5,13 +5,6 @@
 
 
 
-<a href="www.linkedin.com/in/lapo-carrieri/">
-  <img align="left" alt="Carrieri's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
-<br />
 
 hi, i'm Lapo Carrieri
 
