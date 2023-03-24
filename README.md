@@ -5,9 +5,11 @@
 I am Lapo Carrieri. I am currently studying at the Sapienza University in the Master in Artificial Intelligence and Robotics
 
 
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Lapo(111|nd Li)|https://Lapo.li)" title="👋 Hi there! I'm (Lapo(111|nd Li)|https://Lapo.li)"/>](https://raymond.li/)
+![Neuron_3D_Animation__1__AdobeExpress](https://user-images.githubusercontent.com/56505429/227592160-e409e87b-7726-4829-ba98-789e219a2c1f.gif)
 
-![visitors](https://vbr.wocr.tk/badge?page_id=Raymo111.Raymo111&color=00cf00)
+
+
+
 <!--
 **Raymo111/Raymo111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -57,23 +59,8 @@ Here are some ideas to get you started:
 	- 𝙶𝚘 open my own firm!
 	- 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚌𝚘𝚍𝚎 𝚝𝚘 𝚝𝚑𝚎 [Matlab](https://github.com/torvalds/linux)
 
-- 🤔 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚒𝚜𝚜𝚞𝚎𝚜 𝙸 𝚗𝚎𝚎𝚍 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑:
-[comment]: <>	- [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛/𝚒𝚜𝚜𝚞𝚎𝚜/𝟷𝟹𝟼](https://github.com/Raymo111/i3lock-color/issues/136)%5%
-[comment]: <>	- [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛/𝚒𝚜𝚜𝚞𝚎𝚜/𝟷𝟻𝟿](https://github.com/Raymo111/i3lock-color/issues/159)
-
-[comment]: <>## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
-[comment]: <><!--START_SECTION:activity-->
-[comment]: <>1. 💪 Opened PR [#7](https://github.com/iq-eq-us/voicebox/pull/7) in [iq-eq-us/voicebox](https://github.com/iq-eq-us/voicebox)
-[comment]: <>2. 🎉 Merged PR [#6](https://github.com/iq-eq-us/voicebox/pull/6) in [iq-eq-us/voicebox](https://github.com/iq-eq-us/voicebox)
-[comment]: <>3. ❗️ Closed issue [#3](https://github.com/iq-eq-us/voicebox/issues/3) in [iq-eq-us/voicebox](https://github.com/iq-eq-us/voicebox)
-[comment]: <>4. 🗣 Commented on [#4](https://github.com/iq-eq-us/voicebox/issues/4) in [iq-eq-us/voicebox](https://github.com/iq-eq-us/voicebox)
-[comment]: <>5. 💪 Opened PR [#6](https://github.com/iq-eq-us/voicebox/pull/6) in [iq-eq-us/voicebox](https://github.com/iq-eq-us/voicebox)
-[comment]: <><!--END_SECTION:activity-->
 
 
-
-[comment]: <>## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
-[comment]: <> ![Metrics](https://metrics.lecoq.io/Raymo111?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
