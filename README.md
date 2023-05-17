@@ -5,10 +5,6 @@
 I am Lapo Carrieri. I am currently studying at the Sapienza University in the Master in Artificial Intelligence and Robotics
 
 
-![Neuron_3D_Animation__1__AdobeExpress](https://user-images.githubusercontent.com/56505429/227592160-e409e87b-7726-4829-ba98-789e219a2c1f.gif)
-
-
-
 
 <!--
 **Raymo111/Raymo111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
